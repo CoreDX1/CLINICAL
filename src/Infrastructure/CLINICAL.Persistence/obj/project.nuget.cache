@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hWQGmc/KihtX1A8qEubxVFc49FYn0Mef0VStHXHLSSRdY0ZZ8mSSLeiUhaKp5/dsV+/ElhQUfQyvnti5EPh9UA==",
+  "dgSpecHash": "tIIwqo3yZI3OiNTaxae2laRLb4jWGe7zWb+3uHiROJZsJ2nlcWBKR8fSr5NtiX1s2shxH1T0C8eB0gmCKhTuQA==",
   "success": true,
   "projectFilePath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/CLINICAL.Persistence.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/core/.nuget/packages/dapper/2.1.15/dapper.2.1.15.nupkg.sha512"
+  ],
   "logs": []
 }

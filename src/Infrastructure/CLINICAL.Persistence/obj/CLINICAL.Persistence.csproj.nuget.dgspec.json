@@ -4,14 +4,14 @@
     "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/CLINICAL.Persistence.csproj": {}
   },
   "projects": {
-    "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/CLINICAL.Persistence.csproj": {
+    "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.Interface/CLINICAL.Application.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/CLINICAL.Persistence.csproj",
-        "projectName": "CLINICAL.Persistence",
-        "projectPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/CLINICAL.Persistence.csproj",
+        "projectUniqueName": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.Interface/CLINICAL.Application.Interface.csproj",
+        "projectName": "CLINICAL.Application.Interface",
+        "projectPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.Interface/CLINICAL.Application.Interface.csproj",
         "packagesPath": "/home/core/.nuget/packages/",
-        "outputPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/obj/",
+        "outputPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.Interface/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/core/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,69 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/CLINICAL.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/CLINICAL.Persistence.csproj",
+        "projectName": "CLINICAL.Persistence",
+        "projectPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/CLINICAL.Persistence.csproj",
+        "packagesPath": "/home/core/.nuget/packages/",
+        "outputPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/core/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.Interface/CLINICAL.Application.Interface.csproj": {
+                "projectPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.Interface/CLINICAL.Application.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.15, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
