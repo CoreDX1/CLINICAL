@@ -1,0 +1,12 @@
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/bin/Debug/net7.0/CLINICAL.Persistence.deps.json
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/bin/Debug/net7.0/CLINICAL.Persistence.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/bin/Debug/net7.0/CLINICAL.Persistence.pdb
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/obj/Debug/net7.0/CLINICAL.Persistence.csproj.AssemblyReference.cache
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/obj/Debug/net7.0/CLINICAL.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/obj/Debug/net7.0/CLINICAL.Persistence.AssemblyInfoInputs.cache
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/obj/Debug/net7.0/CLINICAL.Persistence.AssemblyInfo.cs
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/obj/Debug/net7.0/CLINICAL.Persistence.csproj.CoreCompileInputs.cache
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/obj/Debug/net7.0/CLINICAL.Persistence.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/obj/Debug/net7.0/refint/CLINICAL.Persistence.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/obj/Debug/net7.0/CLINICAL.Persistence.pdb
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/obj/Debug/net7.0/ref/CLINICAL.Persistence.dll

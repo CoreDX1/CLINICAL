@@ -107,6 +107,51 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "CLINICAL.Application.Dtos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CLINICAL.Application.Dtos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CLINICAL.Application.Dtos.dll": {}
+        }
+      },
+      "CLINICAL.Application.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CLINICAL.Application.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CLINICAL.Application.Interface.dll": {}
+        }
+      },
+      "CLINICAL.Application.UseCase/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CLINICAL.Application.Dtos": "1.0.0",
+          "CLINICAL.Application.Interface": "1.0.0",
+          "CLINICAL.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CLINICAL.Application.UseCase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CLINICAL.Application.UseCase.dll": {}
+        }
+      },
+      "CLINICAL.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CLINICAL.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CLINICAL.Domain.dll": {}
+        }
       }
     }
   },
@@ -460,10 +505,31 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "CLINICAL.Application.Dtos/1.0.0": {
+      "type": "project",
+      "path": "../../Application/CLINICAL.Application.Dtos/CLINICAL.Application.Dtos.csproj",
+      "msbuildProject": "../../Application/CLINICAL.Application.Dtos/CLINICAL.Application.Dtos.csproj"
+    },
+    "CLINICAL.Application.Interface/1.0.0": {
+      "type": "project",
+      "path": "../../Application/CLINICAL.Application.Interface/CLINICAL.Application.Interface.csproj",
+      "msbuildProject": "../../Application/CLINICAL.Application.Interface/CLINICAL.Application.Interface.csproj"
+    },
+    "CLINICAL.Application.UseCase/1.0.0": {
+      "type": "project",
+      "path": "../../Application/CLINICAL.Application.UseCase/CLINICAL.Application.UseCase.csproj",
+      "msbuildProject": "../../Application/CLINICAL.Application.UseCase/CLINICAL.Application.UseCase.csproj"
+    },
+    "CLINICAL.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Domain/CLINICAL.Domain/CLINICAL.Domain.csproj",
+      "msbuildProject": "../../Domain/CLINICAL.Domain/CLINICAL.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "CLINICAL.Application.UseCase >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.11",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -492,7 +558,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.UseCase/CLINICAL.Application.UseCase.csproj": {
+              "projectPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.UseCase/CLINICAL.Application.UseCase.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

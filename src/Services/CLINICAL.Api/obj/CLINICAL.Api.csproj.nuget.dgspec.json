@@ -4,6 +4,228 @@
     "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Services/CLINICAL.Api/CLINICAL.Api.csproj": {}
   },
   "projects": {
+    "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.Dtos/CLINICAL.Application.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.Dtos/CLINICAL.Application.Dtos.csproj",
+        "projectName": "CLINICAL.Application.Dtos",
+        "projectPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.Dtos/CLINICAL.Application.Dtos.csproj",
+        "packagesPath": "/home/core/.nuget/packages/",
+        "outputPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.Dtos/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/core/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.Interface/CLINICAL.Application.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.Interface/CLINICAL.Application.Interface.csproj",
+        "projectName": "CLINICAL.Application.Interface",
+        "projectPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.Interface/CLINICAL.Application.Interface.csproj",
+        "packagesPath": "/home/core/.nuget/packages/",
+        "outputPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.Interface/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/core/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.UseCase/CLINICAL.Application.UseCase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.UseCase/CLINICAL.Application.UseCase.csproj",
+        "projectName": "CLINICAL.Application.UseCase",
+        "projectPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.UseCase/CLINICAL.Application.UseCase.csproj",
+        "packagesPath": "/home/core/.nuget/packages/",
+        "outputPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.UseCase/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/core/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.Dtos/CLINICAL.Application.Dtos.csproj": {
+                "projectPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.Dtos/CLINICAL.Application.Dtos.csproj"
+              },
+              "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.Interface/CLINICAL.Application.Interface.csproj": {
+                "projectPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.Interface/CLINICAL.Application.Interface.csproj"
+              },
+              "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/CLINICAL.Domain.csproj": {
+                "projectPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/CLINICAL.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/CLINICAL.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/CLINICAL.Domain.csproj",
+        "projectName": "CLINICAL.Domain",
+        "projectPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/CLINICAL.Domain.csproj",
+        "packagesPath": "/home/core/.nuget/packages/",
+        "outputPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/core/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Services/CLINICAL.Api/CLINICAL.Api.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -25,7 +247,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.UseCase/CLINICAL.Application.UseCase.csproj": {
+                "projectPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Application/CLINICAL.Application.UseCase/CLINICAL.Application.UseCase.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

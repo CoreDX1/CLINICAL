@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CLINICAL.Application.UseCase/1.0.0": {
+        "dependencies": {
+          "CLINICAL.Application.Dtos": "1.0.0",
+          "CLINICAL.Application.Interface": "1.0.0",
+          "CLINICAL.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CLINICAL.Application.UseCase.dll": {}
+        }
+      },
+      "CLINICAL.Application.Dtos/1.0.0": {
+        "runtime": {
+          "CLINICAL.Application.Dtos.dll": {}
+        }
+      },
+      "CLINICAL.Application.Interface/1.0.0": {
+        "runtime": {
+          "CLINICAL.Application.Interface.dll": {}
+        }
+      },
+      "CLINICAL.Domain/1.0.0": {
+        "runtime": {
+          "CLINICAL.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CLINICAL.Application.UseCase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CLINICAL.Application.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CLINICAL.Application.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CLINICAL.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

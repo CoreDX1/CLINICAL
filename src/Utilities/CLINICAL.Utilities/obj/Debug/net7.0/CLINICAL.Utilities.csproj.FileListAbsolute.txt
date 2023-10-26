@@ -1,0 +1,12 @@
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Utilities/CLINICAL.Utilities/bin/Debug/net7.0/CLINICAL.Utilities.deps.json
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Utilities/CLINICAL.Utilities/bin/Debug/net7.0/CLINICAL.Utilities.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Utilities/CLINICAL.Utilities/bin/Debug/net7.0/CLINICAL.Utilities.pdb
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Utilities/CLINICAL.Utilities/obj/Debug/net7.0/CLINICAL.Utilities.csproj.AssemblyReference.cache
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Utilities/CLINICAL.Utilities/obj/Debug/net7.0/CLINICAL.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Utilities/CLINICAL.Utilities/obj/Debug/net7.0/CLINICAL.Utilities.AssemblyInfoInputs.cache
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Utilities/CLINICAL.Utilities/obj/Debug/net7.0/CLINICAL.Utilities.AssemblyInfo.cs
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Utilities/CLINICAL.Utilities/obj/Debug/net7.0/CLINICAL.Utilities.csproj.CoreCompileInputs.cache
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Utilities/CLINICAL.Utilities/obj/Debug/net7.0/CLINICAL.Utilities.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Utilities/CLINICAL.Utilities/obj/Debug/net7.0/refint/CLINICAL.Utilities.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Utilities/CLINICAL.Utilities/obj/Debug/net7.0/CLINICAL.Utilities.pdb
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Utilities/CLINICAL.Utilities/obj/Debug/net7.0/ref/CLINICAL.Utilities.dll

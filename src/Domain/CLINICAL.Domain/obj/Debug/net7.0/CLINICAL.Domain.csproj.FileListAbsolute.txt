@@ -1,0 +1,12 @@
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/bin/Debug/net7.0/CLINICAL.Domain.deps.json
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/bin/Debug/net7.0/CLINICAL.Domain.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/bin/Debug/net7.0/CLINICAL.Domain.pdb
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/obj/Debug/net7.0/CLINICAL.Domain.csproj.AssemblyReference.cache
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/obj/Debug/net7.0/CLINICAL.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/obj/Debug/net7.0/CLINICAL.Domain.AssemblyInfoInputs.cache
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/obj/Debug/net7.0/CLINICAL.Domain.AssemblyInfo.cs
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/obj/Debug/net7.0/CLINICAL.Domain.csproj.CoreCompileInputs.cache
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/obj/Debug/net7.0/CLINICAL.Domain.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/obj/Debug/net7.0/refint/CLINICAL.Domain.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/obj/Debug/net7.0/CLINICAL.Domain.pdb
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/obj/Debug/net7.0/ref/CLINICAL.Domain.dll
