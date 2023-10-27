@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rWEoVrGql4rED41of9x+yc5kXqZQ5VE1CEDwlXk5Kg+cMLCKWXdWJblK25psIPK6/0QWB3/kFBTTpwwH6Pyv3Q==",
+  "dgSpecHash": "zCuegPPOcMM5e2IbbkA0vOums2MJ9ttbL1QZ/kNxp5LvMNPKBfz55xEi423VWq13CL6bvPukOElZLevZDIE/XQ==",
   "success": true,
   "projectFilePath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/CLINICAL.Persistence.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,8 @@
     "/home/core/.nuget/packages/microsoft.data.sqlclient.sni.runtime/5.1.0/microsoft.data.sqlclient.sni.runtime.5.1.0.nupkg.sha512",
     "/home/core/.nuget/packages/microsoft.extensions.configuration/8.0.0-rc.2.23479.6/microsoft.extensions.configuration.8.0.0-rc.2.23479.6.nupkg.sha512",
     "/home/core/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0-rc.2.23479.6/microsoft.extensions.configuration.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "/home/core/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0-rc.2.23479.6/microsoft.extensions.dependencyinjection.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "/home/core/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0-rc.2.23479.6/microsoft.extensions.dependencyinjection.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
     "/home/core/.nuget/packages/microsoft.extensions.primitives/8.0.0-rc.2.23479.6/microsoft.extensions.primitives.8.0.0-rc.2.23479.6.nupkg.sha512",
     "/home/core/.nuget/packages/microsoft.identity.client/4.53.0/microsoft.identity.client.4.53.0.nupkg.sha512",
     "/home/core/.nuget/packages/microsoft.identity.client.extensions.msal/2.23.0/microsoft.identity.client.extensions.msal.2.23.0.nupkg.sha512",

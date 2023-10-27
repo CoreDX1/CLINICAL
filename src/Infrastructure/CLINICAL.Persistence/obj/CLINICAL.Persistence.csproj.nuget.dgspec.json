@@ -106,6 +106,10 @@
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[8.0.0-rc.2.23479.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0-rc.2.23479.6, )"
             }
           },
           "imports": [
