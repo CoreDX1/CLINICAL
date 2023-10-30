@@ -1,3 +1,5 @@
+/*
+
 create table Analysis
 (
   AnalysisId INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
@@ -7,3 +9,14 @@ create table Analysis
 )
 go
 
+*/
+CREATE PROCEDURE uspAnaysisList
+AS
+BEGIN
+  SELECT
+    AnalysisId,
+    Name,
+    AuditCreateDate,
+    State
+  FROM Analysis
+END

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "CLINICAL.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CLINICAL.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CLINICAL.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CLINICAL.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Domain/CLINICAL.Domain/CLINICAL.Domain.csproj",
+      "msbuildProject": "../../Domain/CLINICAL.Domain/CLINICAL.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "CLINICAL.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/core/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/CLINICAL.Domain.csproj": {
+              "projectPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/CLINICAL.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

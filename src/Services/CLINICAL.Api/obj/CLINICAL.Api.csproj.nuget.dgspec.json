@@ -78,7 +78,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/CLINICAL.Domain.csproj": {
+                "projectPath": "/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Domain/CLINICAL.Domain/CLINICAL.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
