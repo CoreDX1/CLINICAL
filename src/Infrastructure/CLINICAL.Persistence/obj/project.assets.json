@@ -842,11 +842,24 @@
       "CLINICAL.Application.Interface/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CLINICAL.Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/CLINICAL.Application.Interface.dll": {}
         },
         "runtime": {
           "bin/placeholder/CLINICAL.Application.Interface.dll": {}
+        }
+      },
+      "CLINICAL.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CLINICAL.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CLINICAL.Domain.dll": {}
         }
       }
     }
@@ -2364,6 +2377,11 @@
       "type": "project",
       "path": "../../Application/CLINICAL.Application.Interface/CLINICAL.Application.Interface.csproj",
       "msbuildProject": "../../Application/CLINICAL.Application.Interface/CLINICAL.Application.Interface.csproj"
+    },
+    "CLINICAL.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Domain/CLINICAL.Domain/CLINICAL.Domain.csproj",
+      "msbuildProject": "../../Domain/CLINICAL.Domain/CLINICAL.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
