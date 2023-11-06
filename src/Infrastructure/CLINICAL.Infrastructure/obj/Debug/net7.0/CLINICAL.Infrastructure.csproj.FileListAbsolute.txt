@@ -10,3 +10,8 @@
 /home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Infrastructure/obj/Debug/net7.0/refint/CLINICAL.Infrastructure.dll
 /home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Infrastructure/obj/Debug/net7.0/CLINICAL.Infrastructure.pdb
 /home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Infrastructure/obj/Debug/net7.0/ref/CLINICAL.Infrastructure.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Infrastructure/bin/Debug/net7.0/CLINICAL.Application.Interface.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Infrastructure/bin/Debug/net7.0/CLINICAL.Domain.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Infrastructure/bin/Debug/net7.0/CLINICAL.Application.Interface.pdb
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Infrastructure/bin/Debug/net7.0/CLINICAL.Domain.pdb
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Infrastructure/obj/Debug/net7.0/CLINICAL.Infrastructure.csproj.CopyComplete

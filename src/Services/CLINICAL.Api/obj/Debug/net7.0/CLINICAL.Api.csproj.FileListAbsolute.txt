@@ -39,3 +39,10 @@
 /home/core/Desktop/Developer/BackEnd/CLINICAL/src/Services/CLINICAL.Api/obj/Debug/net7.0/CLINICAL.Api.pdb
 /home/core/Desktop/Developer/BackEnd/CLINICAL/src/Services/CLINICAL.Api/obj/Debug/net7.0/CLINICAL.Api.genruntimeconfig.cache
 /home/core/Desktop/Developer/BackEnd/CLINICAL/src/Services/CLINICAL.Api/obj/Debug/net7.0/ref/CLINICAL.Api.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Services/CLINICAL.Api/bin/Debug/net7.0/AutoMapper.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Services/CLINICAL.Api/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Services/CLINICAL.Api/bin/Debug/net7.0/FluentValidation.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Services/CLINICAL.Api/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Services/CLINICAL.Api/bin/Debug/net7.0/MediatR.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Services/CLINICAL.Api/bin/Debug/net7.0/MediatR.Contracts.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Services/CLINICAL.Api/bin/Debug/net7.0/MediatR.Extensions.Microsoft.DependencyInjection.dll

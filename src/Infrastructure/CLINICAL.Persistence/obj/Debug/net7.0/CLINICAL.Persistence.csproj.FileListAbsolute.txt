@@ -10,3 +10,8 @@
 /home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/obj/Debug/net7.0/refint/CLINICAL.Persistence.dll
 /home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/obj/Debug/net7.0/CLINICAL.Persistence.pdb
 /home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/obj/Debug/net7.0/ref/CLINICAL.Persistence.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/bin/Debug/net7.0/CLINICAL.Application.Interface.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/bin/Debug/net7.0/CLINICAL.Domain.dll
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/bin/Debug/net7.0/CLINICAL.Application.Interface.pdb
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/bin/Debug/net7.0/CLINICAL.Domain.pdb
+/home/core/Desktop/Developer/BackEnd/CLINICAL/src/Infrastructure/CLINICAL.Persistence/obj/Debug/net7.0/CLINICAL.Persistence.csproj.CopyComplete

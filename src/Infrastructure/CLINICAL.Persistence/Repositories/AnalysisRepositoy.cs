@@ -18,11 +18,14 @@ public class AnalysisRepository : IAnalysisRepository
     public async Task<IEnumerable<Analysis>> ListAnalysis()
     {
         using var connection = _context.CreateConnection;
+
         var query = "uspAnalysisList";
+
         var analysis = await connection.QueryAsync<Analysis>(
             query,
             commandType: CommandType.StoredProcedure
         );
+
         return analysis;
     }
 }
